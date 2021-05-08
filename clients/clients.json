@@ -1,0 +1,69 @@
+{
+  "clientes": [
+    {
+      "user": "Andrea Gomez",
+      "category": 5,
+      "address": "Salguero 1546"
+    },
+    {
+      "user": "Pablo Palotes3",
+      "category": 2,
+      "address": "Güemes 3"
+    },
+    {
+      "user": "Pablo Palotes3",
+      "category": 2,
+      "address": "Güemes 22523"
+    },
+    {
+      "user": "Pablo Palotes3",
+      "category": 2,
+      "address": "Güemes 22523"
+    },
+    {
+      "user": "Andrea Gomez",
+      "category": 5,
+      "address": "Salguero 1546"
+    },
+    {
+      "user": "nuevo user",
+      "category": 3,
+      "address": "Encalada 12"
+    },
+    {
+      "user": "yo",
+      "category": "1",
+      "address": "Salguero 345"
+    },
+    {
+      "user": "nuevo user",
+      "category": 3,
+      "address": "Encalada 12"
+    },
+    {
+      "user": "yo",
+      "category": "1",
+      "address": "Salguero 345"
+    },
+    {
+      "user": "yo",
+      "category": "1",
+      "address": "Salguero 345"
+    },
+    {
+      "user": "nuevo user",
+      "category": 3,
+      "address": "Encalada 12"
+    },
+    {
+      "user": "nuevo user",
+      "category": 3,
+      "address": "Encalada 12"
+    },
+    {
+      "user": "nuevo user",
+      "category": 3,
+      "address": "Encalada 12"
+    }
+  ]
+}
